@@ -11,6 +11,7 @@
     <a href="https://raw.githubusercontent.com/railt/observer/master/LICENSE.md"><img src="https://poser.pugx.org/railt/observer/license" alt="License MIT"></a>
 </p>
 
+> This package is **deprecated**.
 
 ## Observer
 
